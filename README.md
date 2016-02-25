@@ -28,3 +28,6 @@ Help:
     optional arguments:
       -h, --help  show this help message and exit
       --version   show program's version number and exit
+
+Example Wiring
+![alt tag](https://raw.githubusercontent.com/joemcmanus/pir/master/GalileoGen2-PIR.png)
